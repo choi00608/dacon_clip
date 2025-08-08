@@ -8,7 +8,7 @@
 
 ```
 .
-├── clip_finetuned/         # فا인튜닝된 CLIP 모델 파일
+├── clip_finetuned/         # 파인튜닝된 CLIP 모델 파일
 ├── test_input_images/      # 테스트 이미지
 ├── train_input_images/     # 학습 이미지
 ├── baseline_submit_tuned_verified.csv # 검증된 제출 파일
