@@ -52,3 +52,5 @@ python clip_inference_learning.py
 *   **`train.py`**: `train.csv`와 `train_input_images`를 사용하여 CLIP 모델을 파인튜닝합니다.
 *   **`clip_inference_learning.py`**: `test.csv`와 `test_input_images`를 읽어 파인튜닝된 `clip_finetuned` 모델로 추론을 수행하고, 상위 5개의 예측 결과를 `baseline_submit_tuned.csv` 파일로 저장합니다.
 *   **`comparsion.py`**: `baseline_submit_tuned.csv`와 `baseline_submit_tuned_verified.csv` 파일을 비교하여 성능을 평가하는 스크립트로 보입니다.
+
+*   fork from https://github.com/choi00608/clip_vqa_finetuning.git
