@@ -1,5 +1,5 @@
 # CLIP 모델을 이용한 이미지-텍스트 분류
-  - *2025 Samsung Collegiate Programming Challenge* : AI 챌린지 참가/제출 코드
+  - <*2025 Samsung Collegiate Programming Challenge* : AI 챌린지>본선 진출 참가/제출 코드
 ## 프로젝트 개요
 
 본 프로젝트는 OpenAI의 CLIP(Contrastive Language-Image Pre-Training) 모델을 활용하여 주어진 이미지와 텍스트 설명을 매칭하는 과제를 수행합니다. `train.py`로 모델을 학습하고, `clip_inference_learning.py`를 통해 추론 및 제출 파일을 생성합니다.
